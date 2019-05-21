@@ -46,3 +46,16 @@ const App = () => {
 
 // Take the react component and show it on the screen
 ReactDOM.render(<App />, document.querySelector('#root'));
+
+// THREE TENETS OF COMPONENTS
+
+// COMPONENT NESTING
+// We nest different components within each other when
+// creating a larger React application.
+
+// COMPONENT REUSABILITY
+// We want to make components that can be easily reused throughout
+// the application
+
+// COMPONENT CONFIGURATION
+// We should be able to configure a component when it is created
